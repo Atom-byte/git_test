@@ -1,1 +1,1 @@
-First git workflow training here in Odin.
+First git workflow training here in Odin!, happy learning.
